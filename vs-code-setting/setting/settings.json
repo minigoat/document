@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+
+    "git.path": "D:\\Program Files\\Git\\cmd\\git.exe",
+
+    "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "vscode-icons",
+    "eslint.autoFixOnSave": true,
+}

@@ -1,0 +1,4 @@
+Chinese (Simplified) Language Pack for Visual Studio Code
+ESLint
+Vetur
+vscode-icons
